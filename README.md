@@ -38,7 +38,19 @@ All implementations are written by myself using my own logic to better understan
 
 ---
 
+## Data Structures & Algorithms (C++)
 
+### Implemented:
+
+* ✔️ DFS
+* ✔️ BFS
+
+### Upcoming:
+
+* ⏳ Dijkstra
+* ⏳ Kruskal
+
+---
 
 ## ⭐ Support
 
