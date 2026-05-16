@@ -29,6 +29,11 @@ All implementations are written by myself using my own logic to better understan
 
 * ✔️ Matrix-Vector Dot Product
 * ✔️ Transpose of a Matrix
+* ✔️ Matrix Reshaping
+
+### Attention Is All You Need
+
+* ✔️ Self-Attention Mechanism
 
 
 ---
